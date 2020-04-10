@@ -27,7 +27,7 @@ layout: default
     <h2 class="headers">Code Review:</h2>
     
     <h3>Checklist</h3>
-    
+    <h3>Structure</h3>
     <ul>
       <li>Does the code completely and correctly implement the design?
         <p></p>
@@ -59,12 +59,22 @@ layout: default
       <li>Are any modules excessively complex and should be restructured or split into multiple routines?
         <p></p>
       </li>
+    </ul>
+    
+    <h3>Documentation</h3>
+    
+    <ul>
       <li>Is the code clearly and adequately documented with an easy-to-maintain commenting style?
         <p></p>
       </li>
       <li>Are all comments consistent with the code?
         <p></p>
       </li>
+    </ul>
+    
+    <h3>Variables</h3>
+    
+    <ul>
       <li>Are all variables properly defined with meaningful, consistent, and clear names?
         <p></p>
       </li>
@@ -74,6 +84,11 @@ layout: default
       <li>Are there any redundant or unused variables?
         <p></p>
       </li>
+    </ul>
+    
+    <h3>Arithmetic Operations</h3>
+    
+    <ul>
       <li>Does the code avoid comparing floating-point numbers for equality?
         <p></p>
       </li>
@@ -86,6 +101,11 @@ layout: default
       <li>Are divisors tested for zero or noise?
         <p></p>
       </li>
+    </ul>
+    
+    <h3>Loops and Branches</h3>
+    
+    <ul>
       <li>Are all loops, branches, and logic constructs complete, correct, and properly nested?
         <p></p>
       </li>
@@ -110,6 +130,11 @@ layout: default
       <li>Does the code in the loop avoid manipulating the index variable or using it upon exit from the loop?
         <p></p>
       </li>
+    </ul>
+    
+    <h3>Defensive Programming</h3>
+    
+    <ul>
       <li>Are indexes, pointers, and subscripts tested against array, record, or file bounds?
         <p></p>
       </li>
@@ -134,7 +159,6 @@ layout: default
       <li>Are all files and devices left in the correct state upon program termination?
         <p></p>
       </li>
-      
     </ul>
     
   </article>
