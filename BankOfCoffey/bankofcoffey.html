@@ -5,173 +5,199 @@ layout: default
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<style>
-  .headers{
-  	width:50%;
-  	margin: auto;
-  }
-  
-</style>
+<style></style>
 </head>
-  
+
 <body>
-  <header>
-    <h1 class="headers">Bank of Coffey</h1>
-    <p></p>
-  </header>
+	<header>
+		<h1 align="center">Bank of Coffey</h1>
+		<p/>
+	</header>
   
-  <article>
+	<article>
     
-    <p>This application showcases the use of system design, database communication, and sorting algorithms.</p>
+		<p>This application showcases the use of system design, database communication, and sorting algorithms.</p>
+		
+		<h2 align="center">Code Review</h2>
+		
+		<h3>Checklist</h3>
+		
+		<h4>Structure</h4>
+		<ul>
+			<li>Does the code completely and correctly implement the design?
+			<p></p>
+			</li>
+			
+			<li>Does the code conform to any pertinent coding standards?
+			<p></p>
+			</li>
+			
+			<li>Is the code well-structured, consistent in style, and consistently formatted?
+			<p></p>
+			</li>
+			
+			<li>Are there any uncalled-for or unneeded procedures or any unreachable code?
+			<p></p>
+			</li>
+			
+			<li>Are there any leftover stubs or test routines in the code?
+			<p></p>
+			</li>
+			
+			<li>Can any code be replaced by calls to external reusable components or library functions?
+			<p></p>
+			</li>
+			
+			<li>Are there any blocks of repeated code that could be condensed into a single procedure?
+			<p></p>
+			</li>
+			
+			<li>Is storage use efficient?
+			<p></p>
+			</li>
+			
+			<li>Are symbolics used rather than “magic number” constants or string constants?
+			<p></p>
+			</li>
+			
+			<li>Are any modules excessively complex and should be restructured or split into multiple routines?
+			<p></p>
+			</li>
+		</ul>
+		
+		<h4>Documentation</h4>
+		
+		<ul>
+			<li>Is the code clearly and adequately documented with an easy-to-maintain commenting style?
+			<p></p>
+			</li>
+			
+			<li>Are all comments consistent with the code?
+			<p></p>
+			</li>
+			</ul>
+		
+		<h4>Variables</h4>
+		
+		<ul>
+			<li>Are all variables properly defined with meaningful, consistent, and clear names?
+			<p></p>
+			</li>
+			
+			<li>Do all assigned variables have proper type consistency or casting?
+			<p></p>
+			</li>
+			
+			<li>Are there any redundant or unused variables?
+			<p></p>
+			</li>
+			</ul>
+		
+		<h4>Arithmetic Operations</h4>
+		
+		<ul>
+			<li>Does the code avoid comparing floating-point numbers for equality?
+			<p></p>
+			</li>
+			
+			<li>Does the code systematically prevent rounding errors?
+			<p></p>
+			</li>
+			
+			<li>Does the code avoid additions and subtractions on numbers with greatly different magnitudes?
+			<p></p>
+			</li>
+			
+			<li>Are divisors tested for zero or noise?
+			<p></p>
+			</li>
+		</ul>
+
+		<h4>Loops and Branches</h4>
+
+		<ul>
+			<li>Are all loops, branches, and logic constructs complete, correct, and properly nested?
+			<p></p>
+			</li>
+			
+			<li>Are the most common cases tested first in IF—ELSE IF chains?
+			<p></p>
+			</li>
+			
+			<li>Are all cases covered in an IF—ELSE IF or CASE block, including ELSE or DEFAULT clauses?
+			<p></p>
+			</li>
+			
+			<li>Does every case statement have a default?
+			<p></p>
+			</li>
+			
+			<li>Are loop termination conditions obvious and invariably achievable?
+			<p></p>
+			</li>
+			
+			<li>Are indexes or subscripts properly initialized, just prior to the loop?
+			<p></p>
+			</li>
+			
+			<li>Can any statements that are enclosed within loops be placed outside the loops?
+			<p></p>
+			</li>
+			
+			<li>Does the code in the loop avoid manipulating the index variable or using it upon exit from the loop?
+			<p></p>
+			</li>
+		</ul>
+		
+		<h4>Defensive Programming</h4>
+		
+		<ul>
+			<li>Are indexes, pointers, and subscripts tested against array, record, or file bounds?
+			<p></p>
+			</li>
+			
+			<li>Are imported data and input arguments tested for validity and completeness?
+			<p></p>
+			</li>
+			
+			<li>Are all output variables assigned?
+			<p></p>
+			</li>
+			
+			<li>Are the correct data operated on in each statement?
+			<p></p>
+			</li>
+			
+			<li>Is every memory allocation deallocated?
+			<p></p>
+			</li>
+			
+			<li>Are timeouts or error traps used for external device accesses?
+			<p></p>
+			</li>
+			
+			<li>Are files checked for existence before attempting to access them?
+			<p></p>
+			</li>
+			
+			<li>Are all files and devices left in the correct state upon program termination?
+			<p></p>
+			</li>
+		</ul>
     
-    <h2 class="headers">Code Review</h2>
     
-    <h3>Checklist</h3>
-    <h4>Structure</h4>
-    <ul>
-      <li>Does the code completely and correctly implement the design?
-        <p></p>
-      </li>
-      <li>Does the code conform to any pertinent coding standards?
-        <p></p>
-      </li>
-      <li>Is the code well-structured, consistent in style, and consistently formatted?
-        <p></p>
-      </li>
-      <li>Are there any uncalled-for or unneeded procedures or any unreachable code?
-        <p></p>
-      </li>
-      <li>Are there any leftover stubs or test routines in the code?
-        <p></p>
-      </li>
-      <li>Can any code be replaced by calls to external reusable components or library functions?
-        <p></p>
-      </li>
-      <li>Are there any blocks of repeated code that could be condensed into a single procedure?
-        <p></p>
-      </li>
-      <li>Is storage use efficient?
-        <p></p>
-      </li>
-      <li>Are symbolics used rather than “magic number” constants or string constants?
-        <p></p>
-      </li>
-      <li>Are any modules excessively complex and should be restructured or split into multiple routines?
-        <p></p>
-      </li>
-    </ul>
-    
-    <h4>Documentation</h4>
-    
-    <ul>
-      <li>Is the code clearly and adequately documented with an easy-to-maintain commenting style?
-        <p></p>
-      </li>
-      <li>Are all comments consistent with the code?
-        <p></p>
-      </li>
-    </ul>
-    
-    <h4>Variables</h4>
-    
-    <ul>
-      <li>Are all variables properly defined with meaningful, consistent, and clear names?
-        <p></p>
-      </li>
-      <li>Do all assigned variables have proper type consistency or casting?
-        <p></p>
-      </li>
-      <li>Are there any redundant or unused variables?
-        <p></p>
-      </li>
-    </ul>
-    
-    <h4>Arithmetic Operations</h4>
-    
-    <ul>
-      <li>Does the code avoid comparing floating-point numbers for equality?
-        <p></p>
-      </li>
-      <li>Does the code systematically prevent rounding errors?
-        <p></p>
-      </li>
-      <li>Does the code avoid additions and subtractions on numbers with greatly different magnitudes?
-        <p></p>
-      </li>
-      <li>Are divisors tested for zero or noise?
-        <p></p>
-      </li>
-    </ul>
-    
-    <h4>Loops and Branches</h4>
-    
-    <ul>
-      <li>Are all loops, branches, and logic constructs complete, correct, and properly nested?
-        <p></p>
-      </li>
-      <li>Are the most common cases tested first in IF—ELSE IF chains?
-        <p></p>
-      </li>
-      <li>Are all cases covered in an IF—ELSE IF or CASE block, including ELSE or DEFAULT clauses?
-        <p></p>
-      </li>
-      <li>Does every case statement have a default?
-        <p></p>
-      </li>
-      <li>Are loop termination conditions obvious and invariably achievable?
-        <p></p>
-      </li>
-      <li>Are indexes or subscripts properly initialized, just prior to the loop?
-        <p></p>
-      </li>
-      <li>Can any statements that are enclosed within loops be placed outside the loops?
-        <p></p>
-      </li>
-      <li>Does the code in the loop avoid manipulating the index variable or using it upon exit from the loop?
-        <p></p>
-      </li>
-    </ul>
-    
-    <h4>Defensive Programming</h4>
-    
-    <ul>
-      <li>Are indexes, pointers, and subscripts tested against array, record, or file bounds?
-        <p></p>
-      </li>
-      <li>Are imported data and input arguments tested for validity and completeness?
-        <p></p>
-      </li>
-      <li>Are all output variables assigned?
-        <p></p>
-      </li>
-      <li>Are the correct data operated on in each statement?
-        <p></p>
-      </li>
-      <li>Is every memory allocation deallocated?
-        <p></p>
-      </li>
-      <li>Are timeouts or error traps used for external device accesses?
-        <p></p>
-      </li>
-      <li>Are files checked for existence before attempting to access them?
-        <p></p>
-      </li>
-      <li>Are all files and devices left in the correct state upon program termination?
-        <p></p>
-      </li>
-    </ul>
-    
-    
-    <h2 class="headers">Software Design and Engineering</h2>
-    <p></p>
-    <h2 class="headers">Algorithms & Data Structures</h2>
-    <p></p>
-    <h2 class="headers">Database</h2>
-    <p></p>
+		<h2 align="center">Software Design and Engineering</h2>
+		<p></p>
+		
+		<h2 align="center">Algorithms & Data Structures</h2>
+		<p></p>
+		
+		<h2 align="center">Database</h2>
+		<p></p>
     
     
     
-  </article>
+	</article>
 </body>
   
   
