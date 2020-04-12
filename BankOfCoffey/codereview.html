@@ -11,43 +11,50 @@ layout: default
 		<h4>Structure</h4>
 		<ul>
 			<li>Does the code completely and correctly implement the design?
-			<p></p>
+				<p>Yes, activity diagram and use case diagram.</p>
 			</li>
 			
 			<li>Does the code conform to any pertinent coding standards?
-			<p></p>
+				<p>Yes, best coding practices.</p>
 			</li>
 			
 			<li>Is the code well-structured, consistent in style, and consistently formatted?
-			<p></p>
+				<p>Few if statement without braces, even with only one statements.</p>
+				<p>Everything else good.</p>
 			</li>
 			
 			<li>Are there any uncalled-for or unneeded procedures or any unreachable code?
-			<p></p>
+				<p>AccountPageController.java line 35 unused variable</p>
 			</li>
 			
 			<li>Are there any leftover stubs or test routines in the code?
-			<p></p>
+				<p>ArraySerial.java line 26 test variable being used</p>
+				<p>LogInController.java line 281 todo error comment</p>
+				<p>Verifyuser.java line 35 println get message</p>
 			</li>
 			
 			<li>Can any code be replaced by calls to external reusable components or library functions?
-			<p></p>
+				<p>None that I can find</p>
 			</li>
 			
 			<li>Are there any blocks of repeated code that could be condensed into a single procedure?
-			<p></p>
+				<p>None that I can find</p>
 			</li>
 			
 			<li>Is storage use efficient?
-			<p></p>
+				<p>Yes, serialization in database</p>
 			</li>
 			
 			<li>Are symbolics used rather than “magic number” constants or string constants?
-			<p></p>
+				<p>AddUseAccount.java line 8 Array.length</p>
+				<p>Hash.java line 20 String.length()</p>
 			</li>
 			
 			<li>Are any modules excessively complex and should be restructured or split into multiple routines?
-			<p></p>
+				<p>AccountPageController.java line 109 possible FillTable()</p>
+				<p>ArraySerial.java split serialization into two methods</p>
+				<p>LogInScreenController.java line 82 updateLogInDate new class</p>
+				<p>Sorting.(sort classes) possible duplicate case statements</p>
 			</li>
 		</ul>
 		
@@ -55,47 +62,75 @@ layout: default
 		
 		<ul>
 			<li>Is the code clearly and adequately documented with an easy-to-maintain commenting style?
-			<p></p>
+				<p>AccountPageController.java needs more documentation</p>
+				<p>ArraySerial.deserial could use comments</p>
+				<p>DeleteUserAccount.java no comments</p>
+				<p>Transfer.java no comments</p>
+				<p>UserAccountsInformation.java no comments</p>
+				<p>ArrayListToArray.java no comments</p>
+				<p>VerifyUser.java no comments</p>
+				<p>InsertionSort.java could use more comments</p>
+				<p>MergeSort.java could use more comments</p>
+				<p>QuickSort.java could use more comments</p>
 			</li>
 			
 			<li>Are all comments consistent with the code?
-			<p></p>
+				<p>AdminPageController.java comments at end of lines unlike new line like everything else</p>
+				<p>BubbleSort.java line 32 comments at end of lines</p>
 			</li>
-			</ul>
+		</ul>
 		
 		<h4>Variables</h4>
 		
 		<ul>
 			<li>Are all variables properly defined with meaningful, consistent, and clear names?
-			<p></p>
+				<p>AccountPageController.java line 39 weak variable name</p>
+				<p>AccountPageController.java line 32 weak variable name</p>
+				<p>AccountPageController.java line 34 weak variable name</p>
+				<p>AccountPageController.java line 116 weak variable name</p>
+				<p>AddUserAccount.java line 12 variable does not match its type</p>
+				<p>ArraySerial.java: bos, out, test variable name, bis, in</p>
+				<p>UserAccountInformation.java line 17, 19, 21 similar variable possible inconsistency</p>
+				<p>AdminPageController.java line 34 weak variable name</p>
+				<p>AdminPageController.java line 43 weak variable name</p>
+				<p>ArrayListToArray.java line 11weak variable name</p>
+				<p>Hash.java line 18 temp variable</p>
+				<p>LogInScreenController.java line 49, 50 weak variable name</p>
+				<p>LogInScreenController.java line 196 weak variable name</p>
+				<p>VerifyUser.java line 13 weak variable name</p>
+				<p>BubbleSort.java line 10, 11, weak variable name</p>
+				<p>InsertionSort.java line 9, 10 weak variable name</p>
+				<p>MergeSort.java garbage variable names</p>
+				<p>QuickSort.java line 11, 12 weak variable name</p>
+				<p>QuickSort.java line 49 variable j weak</p>
 			</li>
 			
 			<li>Do all assigned variables have proper type consistency or casting?
-			<p></p>
+				<p>UserInformation.java line 8, PascalCase instead of camelCase</p>
 			</li>
 			
 			<li>Are there any redundant or unused variables?
-			<p></p>
+				<p>AccountPageController.java line 35 unused variable</p>
 			</li>
-			</ul>
+		</ul>
 		
 		<h4>Arithmetic Operations</h4>
 		
 		<ul>
 			<li>Does the code avoid comparing floating-point numbers for equality?
-			<p></p>
+				<p>No floats used</p>
 			</li>
 			
 			<li>Does the code systematically prevent rounding errors?
-			<p></p>
+				<p>Needs to keep double balance to two decimal spaces</p>
 			</li>
 			
 			<li>Does the code avoid additions and subtractions on numbers with greatly different magnitudes?
-			<p></p>
+				<p>Yes</p>
 			</li>
 			
 			<li>Are divisors tested for zero or noise?
-			<p></p>
+				<p>N/A</p>
 			</li>
 		</ul>
 
@@ -103,35 +138,38 @@ layout: default
 
 		<ul>
 			<li>Are all loops, branches, and logic constructs complete, correct, and properly nested?
-			<p></p>
+				<p>Yes, checked out indentation on all lines.</p>
 			</li>
 			
 			<li>Are the most common cases tested first in IF—ELSE IF chains?
-			<p></p>
+				<p>Deposit.java line 12 checking least common case</p>
+				<p>Withdrawal.java line 11, 16 checking least common case</p>
+				<p>LogInScreenController.java line 161 checking least common case</p>
+				<p>LogInScreenController.java line 172 checking least common case</p>
 			</li>
 			
 			<li>Are all cases covered in an IF—ELSE IF or CASE block, including ELSE or DEFAULT clauses?
-			<p></p>
+				<p>Hash.java line 12 possible better if else-if statement block</p>
 			</li>
 			
 			<li>Does every case statement have a default?
-			<p></p>
+				<p>Sorting switch statements have no default</p>
 			</li>
 			
 			<li>Are loop termination conditions obvious and invariably achievable?
-			<p></p>
+				<p>Yes</p>
 			</li>
 			
 			<li>Are indexes or subscripts properly initialized, just prior to the loop?
-			<p></p>
+				<p>Yes</p>
 			</li>
 			
 			<li>Can any statements that are enclosed within loops be placed outside the loops?
-			<p></p>
+				<p>No</p>
 			</li>
 			
 			<li>Does the code in the loop avoid manipulating the index variable or using it upon exit from the loop?
-			<p></p>
+				<p>Yes</p>
 			</li>
 		</ul>
 		
@@ -139,35 +177,42 @@ layout: default
 		
 		<ul>
 			<li>Are indexes, pointers, and subscripts tested against array, record, or file bounds?
-			<p></p>
+				<p>AccountPageController.java line 231 possible OutOfBoundsException</p>
+				<p>Deposit.java line 7, 16 ArrayOutOfBoundsException</p>
+				<p>Withdrawal.java line 7, 21 ArrayOutOfBoundsException</p>
+				<p>AdminPageController.java line 43 empty database ArrayOutOfBoundsException?</p>
+				<p>ArrayListToArray.java possible ArrayOutOfBoundsException / ArrayListOutofBoundsException</p>
+				<p>Hash.java String out of bounds (Exception ????)</p>
+				<p>Sorting classes possible ArrayOutOfBoundsException</p>
 			</li>
 			
 			<li>Are imported data and input arguments tested for validity and completeness?
-			<p></p>
+				<p>ArraySerial.java line 24, 54 NoClassException (Exception name?)</p>
+				<p>LogInScreenController.java line 345 FileNotFoundException</p>
 			</li>
 			
 			<li>Are all output variables assigned?
-			<p></p>
+				<p>Yes</p>
 			</li>
 			
 			<li>Are the correct data operated on in each statement?
-			<p></p>
+				<p>Yes</p>
 			</li>
 			
 			<li>Is every memory allocation deallocated?
-			<p></p>
+				<p>No, need exit/close handling (Close statements, result sets, and connection)</p>
 			</li>
 			
 			<li>Are timeouts or error traps used for external device accesses?
-			<p></p>
+				<p>?</p>
 			</li>
 			
 			<li>Are files checked for existence before attempting to access them?
-			<p></p>
+				<p>LogInScreenController.java line 345 FileNoFoundException</p>
 			</li>
 			
 			<li>Are all files and devices left in the correct state upon program termination?
-			<p></p>
+				<p>No, need exit/close handling (Close statements, result sets, and connection)</p>
 			</li>
 		</ul>
 		
