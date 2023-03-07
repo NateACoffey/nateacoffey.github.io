@@ -138,24 +138,30 @@ const hiraganaMap = new Map([
 	["xi", "ぃ"],
 	["xu", "ぅ"],
 	["xe", "ぇ"],
-	["xo", "ぉ"]
+	["xo", "ぉ"],
+	["ltsu", "っ"]
 	]);
 
 function convertToHiragana(event){
 	const inputText = event.target.value.toLowerCase();
-	let hiraganaText = inputText;
+	let hiraganaText = sokuon(inputText);
 
-	//takes the last 3 characters
+	//takes the last 4 characters
 	let char = inputText.substr(-1);
 	let twoChar = inputText.substr(-2);
 	let threeChar = inputText.substr(-3);
+	let fourChar = inputText.substr(-4);
 
 
 	let hiraganaChar;
 
-	//checks if the last 3 characters can be converted, starting from largest
+	//checks if the last 4 characters can be converted, starting from largest
 	//also removes the last character on the original text to replace
-	if (hiraganaMap.has(threeChar)){
+	if (hiraganaMap.has(fourChar)){
+		hiraganaText = hiraganaText.slice(0, -4);
+		hiraganaChar = hiraganaMap.get(fourChar);
+
+	}else if (hiraganaMap.has(threeChar)){
 		hiraganaText = hiraganaText.slice(0, -3);
 		hiraganaChar = hiraganaMap.get(threeChar);
 
@@ -177,4 +183,26 @@ function convertToHiragana(event){
 
 	event.target.value = hiraganaText;
 }
+
+
+//replaces duplicate letters with the small tsu so the hiragana map isn't absurdly big
+function sokuon(str) {
+	//ignores duplicate n to allow ん
+	if(str.length < 2 || str.slice(-1) === 'n' || !str.slice(-1).match(/[a-z]/)){
+		return str;
+	}
+
+	let newStr;
+
+	//replaces second to last character if it's a duplicate
+	if (str.slice(-1) === str.slice(-2, -1)) {
+		newStr = str.slice(0, -2) + 'っ' + str.slice(-1);
+	} else {
+		return str;
+	}
+
+
+	return newStr;
+}
+
 
