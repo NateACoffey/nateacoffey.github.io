@@ -4,13 +4,14 @@
 	<title>Conjugation Helper</title>
 	<meta charset="utf-8">
 	<link rel="stylesheet" href="css/main.css">
-
+	<script src="js/randomVerbEnding.js"></script>
 </head>
-<body>
-	<p>Conjugate</p>
+<body onload="generateRandomWords()">
+	<p id="randomConjugation"></p>
 	<label for="input-box"></label>
 	<input type="text" id="input-box" oninput="convertToHiragana(event)">
 
 	<script src="js/main.js"></script>
 </body>
+
 </html>
