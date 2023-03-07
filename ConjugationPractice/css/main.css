@@ -1,16 +1,12 @@
 body {
-	background: #9dc183d4;
+	background: linear-gradient(to right, #9dc183ff, #9dc183d4);
 }
 
 p {
-	text-align: center;
 	margin-top: 12%;
 	margin-bottom: 5%;
 	font-size: 35px;
-	font-weight: bold;
-	letter-spacing: 1px;
 }
-
 
 input {
 	display: block;
@@ -18,13 +14,14 @@ input {
 	font-size: 30px;
 	line-height: 50px;
 	width: 35%;
-	text-align:center;
 	background-color: #84a283;
 	border: inset 3px #623c51;
+}
+
+p, input {
+	text-align: center;
 	font-family: Meiryo, Yu Gothic, MS Gothic, Yu Mincho;
 	font-weight: bold;
 	letter-spacing: 1px;
-} 
-
-
+}
 
