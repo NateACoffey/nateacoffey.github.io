@@ -1,3 +1,6 @@
+let tense;
+let ending;
+
 const listOfTenses = [
 	"present polite",
 	"present negative plain",
@@ -35,19 +38,23 @@ const listOfEndings = [
 	"いる"
 ];
 
-
+window.addEventListener("load", generateRandomWords);
 
 function generateRandomWords(){
 	const inputField = document.getElementById('input-box');
 	inputField.value = '';
 
 
-	const tense = listOfTenses[Math.floor(Math.random() * listOfTenses.length)];
-	const ending = listOfEndings[Math.floor(Math.random() * listOfEndings.length)];
+	tense = listOfTenses[Math.floor(Math.random() * listOfTenses.length)];
+	ending = listOfEndings[Math.floor(Math.random() * listOfEndings.length)];
 
 	const randomConjugation = document.getElementById('randomConjugation');
 
 
 	randomConjugation.textContent = "Conjugate " + ending + " to " + tense;
+
+
 }
 
+//export the randoms so answerKey.js can use them for comparison
+export {tense, ending};
