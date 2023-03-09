@@ -1,8 +1,12 @@
+* {
+	font-family: Meiryo, Yu Gothic, MS Gothic, Yu Mincho;
+}
+
 body {
 	background: linear-gradient(to right, #9dc183ff, #9dc183d4);
 }
 
-p {
+#randomConjugation {
 	margin-top: 12%;
 	margin-bottom: 5%;
 	font-size: 35px;
@@ -18,10 +22,15 @@ input {
 	border: inset 3px #623c51;
 }
 
-p, input {
+#randomConjugation, input {
 	text-align: center;
-	font-family: Meiryo, Yu Gothic, MS Gothic, Yu Mincho;
 	font-weight: bold;
 	letter-spacing: 1px;
 }
 
+#feedback-message {
+	display: none;
+	text-align: center;
+	color: #9f0f0f;
+	font-size: 16px;
+}

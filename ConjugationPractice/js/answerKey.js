@@ -268,32 +268,56 @@ const answer = new Map([
 ]);
 
 
-let guesses = 0;
+let guesses = 3;
 
-document.getElementById('input-box').addEventListener('keyup', function(event) {
+const inputBox = document.getElementById('input-box');
+const feedbackMessage = document.getElementById('feedback-message');
 
-	const userInput = document.getElementById('input-box').value
+let userInput;
+let correctAnswer;
+
+
+function answerIsCorrect(){
+	feedbackMessage.textContent = `${userInput} is correct!`;
+	feedbackMessage.style.fontSize = "25px";
+
+	setTimeout(function(){
+		location.reload();
+	}, 2500);
+}
+
+function answerIsIncorrect(){
+	--guesses;
+	
+	if(guesses <= 0) {
+		feedbackMessage.textContent = `Incorrect, the correct answer is ${correctAnswer}.`;
+		feedbackMessage.style.fontSize = "25px";
+
+		guesses = 3;
+
+		setTimeout(function(){
+			location.reload();
+		}, 2500);
+	} else {
+		feedbackMessage.textContent = `${userInput} is incorrect. Remaining guesses: ${guesses}`;
+	}
+}
+
+
+inputBox.addEventListener('keyup', function(event) {
+	userInput = inputBox.value;
 
 	if (event.key === "Enter" & userInput != '') {
 		
-		const correctAnswer = answer.get(tense).get(ending);
+		correctAnswer = answer.get(tense).get(ending);
 		
-		document.getElementById('input-box').value = '';
-
+		inputBox.value = '';
+		feedbackMessage.style.display = "block";
+		
 		if (userInput === correctAnswer) {
-			alert(`${userInput} is correct!`);
-			location.reload();
+			answerIsCorrect();
 		} else {
-			++guesses;
-			
-			if(guesses >= 3){
-				alert(`The correct answer was ${correctAnswer}`);
-				guesses = 0;
-
-				location.reload();
-			}else{
-				alert(`${userInput} is incorrect.`);
-			}
+			answerIsIncorrect();
 		}	
 	}
 });
