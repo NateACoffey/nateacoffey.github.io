@@ -44,6 +44,7 @@ function generateRandomWords(){
 	const inputField = document.getElementById('input-box');
 	inputField.value = '';
 
+	document.getElementById("input-box").focus();
 
 	tense = listOfTenses[Math.floor(Math.random() * listOfTenses.length)];
 	ending = listOfEndings[Math.floor(Math.random() * listOfEndings.length)];
