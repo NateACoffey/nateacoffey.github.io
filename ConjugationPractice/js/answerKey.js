@@ -267,6 +267,9 @@ const answer = new Map([
 
 ]);
 
+
+let guesses = 0;
+
 document.getElementById('input-box').addEventListener('keyup', function(event) {
 
 	const userInput = document.getElementById('input-box').value
@@ -281,7 +284,17 @@ document.getElementById('input-box').addEventListener('keyup', function(event) {
 			alert(`${userInput} is correct!`);
 			location.reload();
 		} else {
-			alert(`${userInput} is incorrect!`);
+			++guesses;
+			
+			if(guesses >= 3){
+				alert(`The correct answer was ${correctAnswer}`);
+				guesses = 0;
+
+				location.reload();
+			}else{
+				alert(`${userInput} is incorrect.`);
+			}
 		}	
 	}
 });
+
