@@ -1,0 +1,68 @@
+
+
+body {
+	margin: 0;
+	font-family: Arial, sans-serif;
+	background: repeating-linear-gradient(45deg, #1B5673, #004A6F 10px, #004A6F 10px, #004A6F 20px);
+	background-size: 20px 20px;
+	color: #ffe4c8;
+	font-size: 20px;
+}
+
+nav {
+	background-color: #171717;
+	background-image: radial-gradient(circle at top left, rgb(61, 73, 85) 0%, rgb(0, 0, 0) 90% );
+	position: fixed;
+	top: 0;
+	bottom: 0;
+	width: 15%;
+	z-index: 1;
+	transition: width 0.5s;
+	padding-top: 8%;
+}
+
+nav:hover {
+	width: 25%;
+}
+
+nav ul {
+	list-style-type: none;
+}
+
+nav ul li {
+	margin: 35px auto;
+	overflow: hidden;
+	white-space: nowrap;
+}
+
+nav ul li:not(:last-child):hover {
+	background-color: #ccc;
+}
+
+nav ul li a {
+	color: #fff;
+	text-decoration: none;
+	font-size: 40px;
+}
+
+span{
+	display:inline-block;
+	width:40px;
+	margin: auto 3px;
+}
+
+.icon:hover {
+	font-size:35px;
+}
+
+section {
+	padding: 2% 8% 80px 28%;
+}
+
+section h1 {
+	font-size:45px;
+}
+
+.contact-info{
+	margin: 5px auto;
+}
