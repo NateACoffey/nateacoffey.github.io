@@ -43,7 +43,11 @@ window.addEventListener("load", generateRandomWords);
 export function generateRandomWords(){
 	const inputField = document.getElementById('input-box');
 	inputField.value = '';
-	document.getElementById('feedback-message').style.display = "none";
+	inputField.disabled = false;
+	const feedbackMessage = document.getElementById('feedback-message');
+	feedbackMessage.style.display = "none";
+	feedbackMessage.style.fontSize = "16px";
+	
 
 	document.getElementById("input-box").focus();
 

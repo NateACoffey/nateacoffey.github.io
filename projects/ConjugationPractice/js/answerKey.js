@@ -288,6 +288,7 @@ function waitForEnter() {
 	}
 	
 	document.addEventListener('keyup', handleKeyPress);
+	
 }
 
 function answerIsCorrect(){
@@ -295,7 +296,8 @@ function answerIsCorrect(){
 	feedbackMessage.style.fontSize = "25px";
 	
 	guesses = 3;
-
+	
+	inputBox.disabled = true;
 	setTimeout(function(){
 		waitForEnter();
 	}, 100);
@@ -310,6 +312,7 @@ function answerIsIncorrect(){
 
 		guesses = 3;
 		
+		inputBox.disabled = true;
 		setTimeout(function(){
 			waitForEnter();
 		}, 100);
