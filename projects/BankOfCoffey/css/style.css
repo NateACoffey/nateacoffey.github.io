@@ -1,0 +1,23 @@
+body {
+	background: #170b16;
+	color: #e1e1e1;
+	width: 60%;
+	min-width: 650px;
+	margin: 0 auto;
+	margin-bottom: 100px;
+	font-family: Arial, sans-serif;
+	font-size: 105%;
+}
+
+a {
+	text-decoration: none;
+	color: #ffb300;
+}
+
+h1, h2, #video-content {
+	text-align: center;
+}
+
+.back-button {
+	text-align: right;
+}

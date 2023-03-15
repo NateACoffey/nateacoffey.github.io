@@ -1,15 +1,17 @@
----
-layout: default
----
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Bank of Coffey</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="./css/style.css">
+</head>
 <body>
-	<article>
+	<section>
 		
-		<h3 align="right"> <a href="../index.html">← Back</a></h3>
-		<p/>
+		<h3 class="back-button"> <a href="./BankOfCoffey.html#CodeReview">← Back</a></h3>
 		
-		<h2 align="center">Code Review Checklist</h2>
-		<p/>
+		<h2>Code Review Checklist</h2>
+		<br>
 		
 		<h3><strong>Structure</strong></h3>
 		<ul>
@@ -22,7 +24,7 @@ layout: default
 			</li>
 			
 			<li>Is the code well-structured, consistent in style, and consistently formatted?
-				<p>-Few if statement without braces, even with only one statements<br />
+				<p>-Few if statement without braces, even with only one statements<br>
 				-Everything else good.</p>
 			</li>
 			
@@ -31,8 +33,8 @@ layout: default
 			</li>
 			
 			<li>Are there any leftover stubs or test routines in the code?
-				<p>-ArraySerial.java line 26 test variable being used<br />
-				-LogInController.java line 281 todo error comment<br />
+				<p>-ArraySerial.java line 26 test variable being used<br>
+				-LogInController.java line 281 todo error comment<br>
 				-Verifyuser.java line 35 println get message</p>
 			</li>
 			
@@ -49,62 +51,66 @@ layout: default
 			</li>
 			
 			<li>Are symbolics used rather than “magic number” constants or string constants?
-				<p>-AddUseAccount.java line 8 Array.length<br />
+				<p>-AddUseAccount.java line 8 Array.length<br>
 				-Hash.java line 20 String.length()</p>
 			</li>
 			
 			<li>Are any modules excessively complex and should be restructured or split into multiple routines?
-				<p>-AccountPageController.java line 109 possible FillTable()<br />
-				-ArraySerial.java split serialization into two methods<br />
-				-LogInScreenController.java line 82 updateLogInDate new class<br />
+				<p>-AccountPageController.java line 109 possible FillTable()<br>
+				-ArraySerial.java split serialization into two methods<br>
+				-LogInScreenController.java line 82 updateLogInDate new class<br>
 				-Sorting.(sort classes) possible duplicate case statements</p>
 			</li>
 		</ul>
-		
+
+		<br>
+
 		<h3><strong>Documentation</strong></h3>
 		
 		<ul>
 			<li>Is the code clearly and adequately documented with an easy-to-maintain commenting style?
-				<p>-AccountPageController.java needs more documentation<br />
-				-ArraySerial.deserial could use comments<br />
-				-DeleteUserAccount.java no comments<br />
-				-Transfer.java no comments<br />
-				-UserAccountsInformation.java no comments<br />
-				-ArrayListToArray.java no comments<br />
-				-VerifyUser.java no comments<br />
-				-InsertionSort.java could use more comments<br />
-				-MergeSort.java could use more comments<br />
+				<p>-AccountPageController.java needs more documentation<br>
+				-ArraySerial.deserial could use comments<br>
+				-DeleteUserAccount.java no comments<br>
+				-Transfer.java no comments<br>
+				-UserAccountsInformation.java no comments<br>
+				-ArrayListToArray.java no comments<br>
+				-VerifyUser.java no comments<br>
+				-InsertionSort.java could use more comments<br>
+				-MergeSort.java could use more comments<br>
 				-QuickSort.java could use more comments</p>
 			</li>
 			
 			<li>Are all comments consistent with the code?
-				<p>-AdminPageController.java comments at end of lines unlike new line like everything else<br />
+				<p>-AdminPageController.java comments at end of lines unlike new line like everything else<br>
 				-BubbleSort.java line 32 comments at end of lines</p>
 			</li>
 		</ul>
+
+		<br>
 		
 		<h3><strong>Variables</strong></h3>
 		
 		<ul>
 			<li>Are all variables properly defined with meaningful, consistent, and clear names?
-				<p>-AccountPageController.java line 39 weak variable name<br />
-				-AccountPageController.java line 32 weak variable name<br />
-				-AccountPageController.java line 34 weak variable name<br />
-				-AccountPageController.java line 116 weak variable name<br />
-				-AddUserAccount.java line 12 variable does not match its type<br />
-				-ArraySerial.java: bos, out, test variable name, bis, in<br />
-				-UserAccountInformation.java line 17, 19, 21 similar variable possible inconsistency<br />
-				-AdminPageController.java line 34 weak variable name<br />
-				-AdminPageController.java line 43 weak variable name<br />
-				-ArrayListToArray.java line 11weak variable name<br />
-				-Hash.java line 18 temp variable<br />
-				-LogInScreenController.java line 49, 50 weak variable name<br />
-				-LogInScreenController.java line 196 weak variable name<br />
-				-VerifyUser.java line 13 weak variable name<br />
-				-BubbleSort.java line 10, 11, weak variable name<br />
-				-InsertionSort.java line 9, 10 weak variable name<br />
-				-MergeSort.java garbage variable names<br />
-				-QuickSort.java line 11, 12 weak variable name<br />
+				<p>-AccountPageController.java line 39 weak variable name<br>
+				-AccountPageController.java line 32 weak variable name<br>
+				-AccountPageController.java line 34 weak variable name<br>
+				-AccountPageController.java line 116 weak variable name<br>
+				-AddUserAccount.java line 12 variable does not match its type<br>
+				-ArraySerial.java: bos, out, test variable name, bis, in<br>
+				-UserAccountInformation.java line 17, 19, 21 similar variable possible inconsistency<br>
+				-AdminPageController.java line 34 weak variable name<br>
+				-AdminPageController.java line 43 weak variable name<br>
+				-ArrayListToArray.java line 11weak variable name<br>
+				-Hash.java line 18 temp variable<br>
+				-LogInScreenController.java line 49, 50 weak variable name<br>
+				-LogInScreenController.java line 196 weak variable name<br>
+				-VerifyUser.java line 13 weak variable name<br>
+				-BubbleSort.java line 10, 11, weak variable name<br>
+				-InsertionSort.java line 9, 10 weak variable name<br>
+				-MergeSort.java garbage variable names<br>
+				-QuickSort.java line 11, 12 weak variable name<br>
 				-QuickSort.java line 49 variable j weak</p>
 			</li>
 			
@@ -117,6 +123,8 @@ layout: default
 			</li>
 		</ul>
 		
+		<br>
+
 		<h3><strong>Arithmetic Operations</strong></h3>
 		
 		<ul>
@@ -137,6 +145,8 @@ layout: default
 			</li>
 		</ul>
 
+		<br>
+
 		<h3><strong>Loops and Branches</strong></h3>
 
 		<ul>
@@ -145,9 +155,9 @@ layout: default
 			</li>
 			
 			<li>Are the most common cases tested first in IF—ELSE IF chains?
-				<p>-Deposit.java line 12 checking least common case<br />
-				-Withdrawal.java line 11, 16 checking least common case<br />
-				-LogInScreenController.java line 161 checking least common case<br />
+				<p>-Deposit.java line 12 checking least common case<br>
+				-Withdrawal.java line 11, 16 checking least common case<br>
+				-LogInScreenController.java line 161 checking least common case<br>
 				-LogInScreenController.java line 172 checking least common case</p>
 			</li>
 			
@@ -176,21 +186,23 @@ layout: default
 			</li>
 		</ul>
 		
+		<br>
+
 		<h3><strong>Defensive Programming</strong></h3>
 		
 		<ul>
 			<li>Are indexes, pointers, and subscripts tested against array, record, or file bounds?
-				<p>-AccountPageController.java line 231 possible OutOfBoundsException<br />
-				-Deposit.java line 7, 16 ArrayOutOfBoundsException<br />
-				-Withdrawal.java line 7, 21 ArrayOutOfBoundsException<br />
-				-AdminPageController.java line 43 empty database ArrayOutOfBoundsException?<br />
-				-ArrayListToArray.java possible ArrayOutOfBoundsException/ArrayListOutofBoundsException<br />
-				-Hash.java String out of bounds (Exception ????)<br />
+				<p>-AccountPageController.java line 231 possible OutOfBoundsException<br>
+				-Deposit.java line 7, 16 ArrayOutOfBoundsException<br>
+				-Withdrawal.java line 7, 21 ArrayOutOfBoundsException<br>
+				-AdminPageController.java line 43 empty database ArrayOutOfBoundsException?<br>
+				-ArrayListToArray.java possible ArrayOutOfBoundsException/ArrayListOutofBoundsException<br>
+				-Hash.java String out of bounds (Exception ????)<br>
 				-Sorting classes possible ArrayOutOfBoundsException</p>
 			</li>
 			
 			<li>Are imported data and input arguments tested for validity and completeness?
-				<p>-ArraySerial.java line 24, 54 NoClassException (Exception name?)<br />
+				<p>-ArraySerial.java line 24, 54 NoClassException (Exception name?)<br>
 				-LogInScreenController.java line 345 FileNotFoundException</p>
 			</li>
 			
@@ -223,6 +235,6 @@ layout: default
 		
 		
 		
-	</article>
+	</section>
 </body>
 

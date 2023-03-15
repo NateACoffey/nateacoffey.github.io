@@ -1,32 +1,37 @@
----
-layout: default
----
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Bank of Coffey</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="./css/style.css">
+</head>
 <body>
-	<article>
+	<section>
 		
-		<h3 align="right"> <a href="../index.html">← Back</a></h3>
-		<p/>
+		<h3 class="back-button"> <a href="./BankOfCoffey.html#SoftwareDesignandEngineering">← Back</a></h3>
 		
-		<h2 align="center">Software Design & Engineering Narrative</h2>
+		<h2>Software Design & Engineering Narrative</h2>
 		
-		<p></p>
+		<br>
 		<p><strong>"Briefly describe the artifact. What is it? When was it created?"</strong></p>
 		
 		<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My artifact is a bank application. It simulates an actual bank with the same features such as creating an account, withdraw, deposit, transfer, etc. My program uses a database to store its users. It stores information about the user as well as credentials. It also has an admin log in to query various information about the users such as state, zip code, and amount of accounts. This can be used to show where people are using the bank application the most. I had this idea a bit before the class because I wanted to put something on my GitHub account. The requirements of the class really pushed my original idea and had to implement a database and data structure/algorithm. I was originally planning on putting the information into a hashed array using the username. It might have been easier but I’m learning more and having to be creative.</p>
 		
+		<br>
 		<p><strong>"Justify the inclusion of the artifact in your ePortfolio. Why did you select this item? What specific components of the artifact showcase your skills and abilities in software development? How was the artifact improved?"</strong></p>
 		
 		<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I’m not great at coming up with ideas so I tried thinking about various, real-world things that I could apply the requirements towards. A bank was something I thought could work since you have to store the users and have to have many users access and quickly. Theoretically, a database would allow this no matter where you access it. For the software development, I have made an activity diagram and a use case diagram. The activity diagram shows what the application will be doing and what it can do next. The use case diagram show the actors and how their actions will communicate with the database. My project started off as a simple application that communicates with a database and then displays the information. I have a GUI implemented and have added verification with certain fields to complete an action. I even put error messages that only become visible is certain requirements are not fulfilled such as a duplicate username when creating a new account.</p>
 		
+		<br>
 		<p><strong>"Did you meet the course objectives you planned to meet with this enhancement in Module One? Do you have any updates to your outcome-coverage plans?"</strong></p>
 		
 		<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I have not done the code review but I have completed some of my goals that I made. I have completed serialization and communication with the database. Last week, I managed to retrieve information from the database. I have since been able to update and insert into the database. Something I had a huge problem with was storing serialization of an array into the database. I finally managed to complete and store the information. I haven’t finished all of my goals as the serialization took a lot more of my time than I expected. I need to start setting up bank accounts for the users and verify the serialization keeps the data. Right now, I know the serialization works on an empty object array and deserializes without any problems. I severely underestimated serialization and am hoping that it’s 100% working.</p>
 		
+		<br>
 		<p><strong>"Reflect on the process of enhancing and/or modifying the artifact. What did you learn as you were creating it and improving it? What challenges did you face?"</strong></p>
 		
 		<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The biggest thing I’ve learned is that it is extremely easy to have 10 ideas before you’ve finished your last, one idea. I had various time where I was working on serialization and had an idea about the GUI or had an idea on how to handle an uncommon bug. Sometimes I thought about a bug that could happen and tried to figure out how to prevent it. All that time, I still had to work out something that I still hadn’t finished. I had set up enough of the program to work on whatever I needed but doing the setup, I had this feeling of wanting it to be perfect. After a while, I had to take a step back and see that I’ve been working on too much at once. Improving my program is never finished. I think I’m completely done with the log in page and its controller but I know it could use some color. I even added a favicon to my program that no one will notice. The biggest challenge is doing something specific that it is difficult to search for answers. Doing the serialization, there’s a ton of resources for serialization but I have to limit that to storing serialization with SQL and java. Then I have limit that to Microsoft Access database. Then comes the problem of finding an outdated answer that doesn’t work on Java SE 7+. The more I researched, the less I knew. I finally found a site talking about converting an object array to a bit array. I looked into that and found out more about streaming using bit arrays and then how to convert that into a string using an encoder but not every encoder works. There was also the fear of finding a new answer and knowing that if it didn’t work, I’d have to go back to an hour of research.</p>
 		
 		
-	</article>
+	</section>
 </body>

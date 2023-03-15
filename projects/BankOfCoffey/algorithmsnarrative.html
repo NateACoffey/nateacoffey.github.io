@@ -1,32 +1,37 @@
----
-layout: default
----
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Bank of Coffey</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="./css/style.css">
+</head>
 <body>
-	<article>
-		<h3 align="right"> <a href="../index.html">← Back</a></h3>
-		<p/>
+	<section>
+		<h3 class="back-button"> <a href="./BankOfCoffey.html#AlgorithmsandDataStructures">← Back</a></h3>
 		
-		<h2 align="center">Algorithms and Data Structures Narrative</h2>
+		<h2>Algorithms and Data Structures Narrative</h2>
 			
-			<p></p>
+			<br>
 			<p><strong>"Briefly describe the artifact. What is it? When was it created?"</strong></p>
 			
 			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For the algorithms & data structure, I’ve have constructed an admin login to sort certain database fields. When you log into the program as the admin, the program selects five fields for the entire database, skips the admin values, and puts them into an arraylist. The GUI has two choice boxes for the field to sort by as well as the type of sort to initiate. It takes the arraylist, copies them to an array, and then sorts the array depending on the sort and field. My original idea was to just do an insertion sort to sort the fields but I felt like this was very lackluster. Eventually, I just started on the program and had that as my plan A. Once I got to actually coding the algorithm, I felt like it would be cool to have different algorithms. I decided to implement four different algorithms that you could choose and even added a timer to display the time it took to sort the array.</p>
-			
+
+			<br>
 			<p><strong>"Justify the inclusion of the artifact in your ePortfolio. Why did you select this item? What specific components of the artifact showcase your skills and abilities in software development? How was the artifact improved?"</strong></p>
 			
 			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My original idea was to put everything into a hashed array and then use an algorithm to sort everything. With the requirement of the database, I had to think of another way to do the sorting because the SQL commands take care of the searching. I have implemented four algorithms to show off my knowledge of the algorithms as well as being able to see the sort time for each algorithm. I even use an arraylist as well as converting it into an array which demonstrates some knowledge of data structures.</p>
-			
+
+			<br>
 			<p><strong>"Did you meet the course objectives you planned to meet with this enhancement in Module One? Do you have any updates to your outcome-coverage plans?"</strong></p>
 			
 			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I have exceeded my goals from first planning my bank program. The algorithms & data structures portion was very underwhelming and kinda slapped on just to fulfill the requirements. I think my current iteration of the algorithms portion is very good. I demonstrate different sorting algorithms by sorting an object array, depending on the selected field from within the object. I also use an arraylist for storing database fields because the database could expand. I manually initialize the arraylist with a larger number so that the arraylist does not have to resize itself as much. The arraylist is copied to an array so that the original can be left while the copied array will be sorted without messing the other sorting algorithms. Some algorithms are better in certain situations, so if the array is sorted differently each time, it would not be a fair comparison. My next plan is to display the times and find the average times for each algorithm each time you sort. This will grow as you sort, get a more accurate time for each algorithm, and be able to visualize the differences.</p>
-			
+
+			<br>
 			<p><strong>"Reflect on the process of enhancing and/or modifying the artifact. What did you learn as you were creating it and improving it? What challenges did you face?"</strong></p>
 			
 			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sorting an array is not a difficult feature in my opinion, but sorting an object array by a variable depending on the field was fairly difficult. I decided that the easiest way was to act like I was comparing two integers. From there, I was able to see specifically where the comparison was being done. I could then replace the comparison and use a compareTo() to compare strings and use the resulting integer to sort alphabetically. The biggest thing I learned is that sorting really depends on the amount of effort you are willing to put in. If you’re sorting a tiny array then a bubble sort would be just fine because it doesn’t take a long time to code. If you are sorting a massive array then you want to lowest sorting time possible so you have to put more work to sort. Merge sort was definitely the most complicated algorithm to code; visualizing it was much easier than implementing it. Another challenge was working with the field that you sort by. I decided to use a switch statement because there are five fields you can choose so a big if-else if statement would hard to read. I also read that after about five conditions, a switch statement is faster since an if statement has to compare each condition in order. This was nice because before I never understood why anyone would use a switch statement as I haven’t used one since the first time I learned about switch statements.</p>
 			
 			
 			
-	</article>
+	</section>
 </body>
