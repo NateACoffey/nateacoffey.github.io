@@ -39,7 +39,7 @@ nav ul li:not(:last-child):hover {
 	background-color: #ccc;
 }
 
-nav ul li a {
+nav a {
 	color: #fff;
 	text-decoration: none;
 	font-size: 40px;
@@ -61,6 +61,11 @@ section {
 
 section h1 {
 	font-size:45px;
+}
+
+section a {
+	text-decoration: none;
+	color: #f57427;
 }
 
 .contact-info{
