@@ -277,13 +277,22 @@ let userInput;
 let correctAnswer;
 
 
+function waitForEnter() {
+	
+	document.addEventListener('keyup', function(event) {
+		if (event.key === "Enter") {
+		location.reload();
+		}
+	});
+}
+
 function answerIsCorrect(){
 	feedbackMessage.textContent = `${userInput} is correct!`;
 	feedbackMessage.style.fontSize = "25px";
 
 	setTimeout(function(){
-		location.reload();
-	}, 2500);
+		waitForEnter();
+	}, 50);
 }
 
 function answerIsIncorrect(){
@@ -294,10 +303,11 @@ function answerIsIncorrect(){
 		feedbackMessage.style.fontSize = "25px";
 
 		guesses = 3;
-
+		
 		setTimeout(function(){
-			location.reload();
-		}, 2500);
+			waitForEnter();
+		}, 50);
+		
 	} else {
 		feedbackMessage.textContent = `${userInput} is incorrect. Remaining guesses: ${guesses}`;
 	}
