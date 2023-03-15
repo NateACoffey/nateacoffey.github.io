@@ -40,9 +40,10 @@ const listOfEndings = [
 
 window.addEventListener("load", generateRandomWords);
 
-function generateRandomWords(){
+export function generateRandomWords(){
 	const inputField = document.getElementById('input-box');
 	inputField.value = '';
+	document.getElementById('feedback-message').style.display = "none";
 
 	document.getElementById("input-box").focus();
 

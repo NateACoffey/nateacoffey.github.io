@@ -1,6 +1,8 @@
 // Import the random tense and ending from randomVerbEnding.js
 import {tense, ending} from './randomVerbEnding.js';
 
+import { generateRandomWords } from './randomVerbEnding.js';
+
 
 
 const answer = new Map([
@@ -278,12 +280,14 @@ let correctAnswer;
 
 
 function waitForEnter() {
-	
-	document.addEventListener('keyup', function(event) {
+	function handleKeyPress(event) {
 		if (event.key === "Enter") {
-		location.reload();
+			document.removeEventListener('keyup', handleKeyPress);
+			generateRandomWords();
 		}
-	});
+	}
+	
+	document.addEventListener('keyup', handleKeyPress);
 }
 
 function answerIsCorrect(){
@@ -292,7 +296,7 @@ function answerIsCorrect(){
 
 	setTimeout(function(){
 		waitForEnter();
-	}, 50);
+	}, 100);
 }
 
 function answerIsIncorrect(){
@@ -306,7 +310,7 @@ function answerIsIncorrect(){
 		
 		setTimeout(function(){
 			waitForEnter();
-		}, 50);
+		}, 100);
 		
 	} else {
 		feedbackMessage.textContent = `${userInput} is incorrect. Remaining guesses: ${guesses}`;
