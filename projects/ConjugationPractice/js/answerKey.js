@@ -293,6 +293,8 @@ function waitForEnter() {
 function answerIsCorrect(){
 	feedbackMessage.textContent = `${userInput} is correct!`;
 	feedbackMessage.style.fontSize = "25px";
+	
+	guesses = 3;
 
 	setTimeout(function(){
 		waitForEnter();
