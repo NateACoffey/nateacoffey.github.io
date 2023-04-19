@@ -277,6 +277,7 @@ const feedbackMessage = document.getElementById('feedback-message');
 
 let userInput;
 let correctAnswer;
+let hasAnswered = false;
 
 
 function waitForEnter() {
@@ -284,6 +285,7 @@ function waitForEnter() {
 		if (event.key === "Enter") {
 			document.removeEventListener('keyup', handleKeyPress);
 			generateRandomWords();
+			hasAnswered = false;
 		}
 	}
 	
@@ -296,8 +298,8 @@ function answerIsCorrect(){
 	feedbackMessage.style.fontSize = "25px";
 	
 	guesses = 3;
+	hasAnswered = true;
 	
-	inputBox.disabled = true;
 	setTimeout(function(){
 		waitForEnter();
 	}, 100);
@@ -312,7 +314,7 @@ function answerIsIncorrect(){
 
 		guesses = 3;
 		
-		inputBox.disabled = true;
+		hasAnswered = true;
 		setTimeout(function(){
 			waitForEnter();
 		}, 100);
@@ -324,7 +326,9 @@ function answerIsIncorrect(){
 
 
 inputBox.addEventListener('keyup', function(event) {
-	userInput = inputBox.value;
+	if(hasAnswered) return;
+	
+	userInput = inputBox.value.trim();
 
 	if (event.key === "Enter" & userInput != '') {
 		
