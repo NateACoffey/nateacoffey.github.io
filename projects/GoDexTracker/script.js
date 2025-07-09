@@ -175,15 +175,22 @@ function createTagOverlay(pokemon, card) {
       if (!tracked[pokemon.id]) tracked[pokemon.id] = {};
       const wasSelected = !!tracked[pokemon.id][tag];
       tracked[pokemon.id][tag] = !wasSelected;
-
+    
       if (!wasSelected && tag !== 'normal') {
         tracked[pokemon.id]['normal'] = true;
       }
-
+    
       localStorage.setItem("tracked", JSON.stringify(tracked));
       updateCardGreyed(card, pokemon.id);
-      renderPokemonGrid();
+    
+      // Optionally update tag appearance directly
+      if (tracked[pokemon.id][tag]) {
+        tagBox.classList.add('greyed');
+      } else {
+        tagBox.classList.remove('greyed');
+      }
     });
+
 
     overlay.appendChild(tagBox);
   });
