@@ -6,6 +6,21 @@ body {
   margin-right: auto;
 }
 
+#scrollToTop {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: rgba(0, 0, 0, 0.4);
+  color: white;
+  border: none;
+  font-size: 25px;
+  cursor: pointer;
+  z-index: 1000;
+}
+
 #tabs button.active {
   background: #333;
   color: #fff;
