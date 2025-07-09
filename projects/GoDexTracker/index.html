@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Pokémon Tracker - All</title>
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <h1>Pokémon Go Tracker</h1>
+  <label>
+    <input type="checkbox" id="hide-obtained">
+    Hide Obtained
+  </label>
+
+  <div id="tabs">
+    <button data-tab="all" class="active">All</button>
+    <button data-tab="shiny">Shiny</button>
+    <button data-tab="lucky">Lucky</button>
+    <button data-tab="xxl">XXL</button>
+    <button data-tab="xxs">XXS</button>
+    <button data-tab="shadow">Shadow</button>
+    <button data-tab="purified">Purified</button>
+    <button data-tab="current">Current</button>
+  </div>
+
+  <div id="filter-container" style="margin: 12px 0;">
+    <label for="tag-filter">Filter by Tag:</label>
+    <select id="filter-select">
+    <option value="none">None</option>
+    <option value="shiny">Shiny</option>
+    <option value="lucky">Lucky</option>
+    <option value="xxl">XXL</option>
+    <option value="xxs">XXS</option>
+    <option value="shadow">Shadow</option>
+    <option value="purified">Purified</option>
+  </select>
+  </div>
+
+  <div id="pokemon-container"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>

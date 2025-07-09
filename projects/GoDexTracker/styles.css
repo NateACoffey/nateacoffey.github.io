@@ -1,0 +1,81 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#tabs button.active {
+  background: #333;
+  color: #fff;
+}
+
+#filter-container {
+  display: none;
+}
+
+#pokemon-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 12px;
+}
+
+.pokemon-card {
+  overflow: hidden;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 8px;
+  text-align: center;
+  position: relative;
+  background: white;
+  transition: background 0.3s ease;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.pokemon-card img {
+  width: 96px;
+  height: 96px;
+}
+
+.pokemon-card.greyed {
+  opacity: 0.5;
+  filter: grayscale(100%);
+}
+
+
+.tag-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(255, 255, 255, 0.95);
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  gap: 4px;
+  padding: 6px;
+  border-radius: 6px;
+  z-index: 10;
+}
+
+
+.tag-box {
+  border: 1px solid #aaa;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+  cursor: pointer;
+  user-select: none;
+  background: #eee;
+  transition: background 0.2s ease;
+}
+
+.tag-box.greyed {
+  background: #999;
+  color: #ccc;
+}
