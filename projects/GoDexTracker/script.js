@@ -265,6 +265,15 @@ function updateCardGreyed(card, id) {
 
 
 
+const scrollBtn = document.getElementById('scrollToTop');
+
+window.addEventListener('scroll', () => {
+  scrollBtn.style.display = window.scrollY > 100 ? 'block' : 'none';
+});
+
+scrollBtn.addEventListener('click', () => {
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+});
 
 
 
@@ -291,6 +300,7 @@ tabs.addEventListener('click', e => {
 
   renderPokemonGrid();
 });
+
 
 
 document.addEventListener('click', e => {
