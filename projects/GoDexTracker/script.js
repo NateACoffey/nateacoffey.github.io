@@ -173,9 +173,11 @@ function createTagOverlay(pokemon, card) {
     tagBox.addEventListener('click', e => {
       e.stopPropagation();
       if (!tracked[pokemon.id]) tracked[pokemon.id] = {};
+    
       const wasSelected = !!tracked[pokemon.id][tag];
       tracked[pokemon.id][tag] = !wasSelected;
     
+      // Also select "normal" if needed
       if (!wasSelected && tag !== 'normal') {
         tracked[pokemon.id]['normal'] = true;
       }
@@ -183,13 +185,22 @@ function createTagOverlay(pokemon, card) {
       localStorage.setItem("tracked", JSON.stringify(tracked));
       updateCardGreyed(card, pokemon.id);
     
-      // Optionally update tag appearance directly
+      // Update this tag's visual
       if (tracked[pokemon.id][tag]) {
         tagBox.classList.add('greyed');
       } else {
         tagBox.classList.remove('greyed');
       }
+    
+      // Update "normal" tag visually if it was just toggled by another tag
+      if (tag !== 'normal') {
+        const normalTagBox = overlay.querySelector('.tag-box:nth-child(1)');
+        if (normalTagBox && tracked[pokemon.id]['normal']) {
+          normalTagBox.classList.add('greyed');
+        }
+      }
     });
+
 
 
     overlay.appendChild(tagBox);
