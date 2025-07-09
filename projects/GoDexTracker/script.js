@@ -107,14 +107,14 @@ function renderPokemonGrid() {
           // Mobile tap toggle
           card.addEventListener('click', e => {
             e.stopPropagation();
-
-            // Close existing overlay if one is open
+        
+            // Close any other open overlay
             if (openOverlay && openOverlay !== overlay) {
               openOverlay.remove();
               openOverlay = null;
             }
-
-            if (overlay) {
+        
+            if (overlay && overlay.parentElement === card) {
               card.removeChild(overlay);
               overlay = null;
               openOverlay = null;
@@ -276,11 +276,15 @@ tabs.addEventListener('click', e => {
 
 
 document.addEventListener('click', e => {
-  if (openOverlay && !e.target.closest('.pokemon-card')) {
-    openOverlay.remove();
-    openOverlay = null;
-  }
+  // Delay to allow tag click to register before removing overlay
+  setTimeout(() => {
+    if (openOverlay && !e.target.closest('.pokemon-card')) {
+      openOverlay.remove();
+      openOverlay = null;
+    }
+  }, 50);
 });
+
 
 
 document.getElementById('hide-obtained').addEventListener('change', e => {
