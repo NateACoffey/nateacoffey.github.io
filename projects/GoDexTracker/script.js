@@ -107,23 +107,27 @@ function renderPokemonGrid() {
           // Mobile tap toggle
           card.addEventListener('click', e => {
             e.stopPropagation();
-        
-            // Close any other open overlay
+
+            // If any overlay is open but it's not this card's overlay, close it and stop
             if (openOverlay && openOverlay !== overlay) {
               openOverlay.remove();
               openOverlay = null;
+              return;
             }
-        
+
+            // If this card's overlay is open, close it
             if (overlay && overlay.parentElement === card) {
               card.removeChild(overlay);
               overlay = null;
               openOverlay = null;
-            } else {
-              overlay = createTagOverlay(pokemon, card);
-              overlay.classList.add('open');
-              card.appendChild(overlay);
-              openOverlay = overlay;
+              return;
             }
+
+            // No overlay is open — open this card's overlay
+            overlay = createTagOverlay(pokemon, card);
+            overlay.classList.add('open');
+            card.appendChild(overlay);
+            openOverlay = overlay;
           });
         }
       } else {
