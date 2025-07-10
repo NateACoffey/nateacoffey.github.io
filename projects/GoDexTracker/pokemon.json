@@ -361,9 +361,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -377,9 +375,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -425,9 +421,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -441,9 +435,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -453,13 +445,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10100.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -481,17 +467,11 @@
   },
   {
     "id": "27_0",
-    "name": "Sandshrew",
+    "name": "Sandshrew Alolan",
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10101.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -517,13 +497,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10102.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -633,9 +607,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -649,9 +621,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -677,13 +647,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10103.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -709,13 +673,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10104.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -729,9 +687,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -745,9 +701,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -841,9 +795,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -857,9 +809,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -917,13 +867,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10105.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -949,13 +893,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10106.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -981,13 +919,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10107.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -997,13 +929,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10161.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -1029,13 +955,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10108.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -1125,13 +1045,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10229.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -1157,13 +1071,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10230.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -1413,13 +1321,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10109.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -1445,13 +1347,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10110.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -1477,13 +1373,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10111.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -1509,13 +1399,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10162.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -1541,13 +1425,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10163.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -1573,13 +1451,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10164.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -1605,13 +1477,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10165.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -1689,9 +1555,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -1705,9 +1569,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -1721,9 +1583,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -1737,9 +1597,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -1765,13 +1623,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10112.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -1797,13 +1649,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10113.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -1989,13 +1835,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10231.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -2021,13 +1861,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10232.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -2069,13 +1903,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10114.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -2117,13 +1945,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10115.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -2169,9 +1991,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -2213,13 +2033,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10167.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -2265,9 +2079,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -2345,9 +2157,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -2361,9 +2171,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -2377,9 +2185,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -2393,9 +2199,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -2457,9 +2261,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -2521,9 +2323,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -2533,13 +2333,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10250.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -2549,13 +2343,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10251.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -2565,13 +2353,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10252.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -2633,9 +2415,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -2649,9 +2429,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -2665,9 +2443,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -2681,9 +2457,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -2697,9 +2471,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -2837,13 +2609,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10169.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -2869,13 +2635,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10170.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -2901,13 +2661,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10171.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -2980,14 +2734,7 @@
     "name": "Mew",
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png",
     "availableTags": [
-      "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "normal"
     ],
     "availableInGo": true
   },
@@ -3161,9 +2908,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -3177,9 +2922,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -3193,9 +2936,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -3209,9 +2950,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -3257,9 +2996,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -3273,9 +3010,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -3305,9 +3040,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -3321,9 +3054,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -3337,9 +3068,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -3353,9 +3082,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -3369,9 +3096,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -3385,9 +3110,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -3401,9 +3124,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -3513,9 +3234,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -3529,9 +3248,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -3641,9 +3358,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -3657,9 +3372,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -3673,9 +3386,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -3701,13 +3412,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10253.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -3737,9 +3442,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -3753,9 +3456,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -3797,13 +3498,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10172.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -3833,9 +3528,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -3849,9 +3542,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -3865,9 +3556,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -3881,9 +3570,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -3897,9 +3584,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -3913,9 +3598,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -3929,9 +3612,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -3945,9 +3626,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -3961,9 +3640,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -3977,9 +3654,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -3993,9 +3668,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -4009,9 +3682,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -4025,9 +3696,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -4041,9 +3710,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -4057,9 +3724,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -4073,9 +3738,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -4089,9 +3752,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -4105,9 +3766,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -4121,9 +3780,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -4137,9 +3794,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -4153,9 +3808,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -4169,9 +3822,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -4185,9 +3836,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -4201,9 +3850,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -4217,9 +3864,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -4233,9 +3878,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -4249,9 +3892,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -4265,9 +3906,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -4345,9 +3984,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -4425,9 +4062,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -4437,13 +4072,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10234.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -4489,9 +4118,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -4517,13 +4144,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10235.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -4569,9 +4190,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -4585,9 +4204,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -4633,9 +4250,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -4649,9 +4264,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -4665,9 +4278,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -4681,9 +4292,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -4713,9 +4322,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -4857,9 +4464,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -4873,9 +4478,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -4905,9 +4508,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -4921,9 +4522,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -4937,9 +4536,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -4953,9 +4550,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -4969,9 +4564,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -5109,13 +4702,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/251.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -5305,9 +4892,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -5317,11 +4902,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10174.png",
     "availableTags": [
       "normal",
-      "hundo",
       "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
       "shadow",
       "purified"
     ],
@@ -5349,13 +4930,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10175.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -5369,9 +4944,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -5385,9 +4958,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -5401,9 +4972,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -5417,9 +4986,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -5433,9 +5000,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -5449,9 +5014,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -5465,9 +5028,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -5481,9 +5042,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -5577,9 +5136,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -5593,9 +5150,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -5657,9 +5212,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -5673,9 +5226,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -5689,9 +5240,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -5705,9 +5254,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -5769,9 +5316,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -5785,9 +5330,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -5801,9 +5344,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -5897,9 +5438,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -5929,9 +5468,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -5945,9 +5482,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -6041,9 +5576,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -6057,9 +5590,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -6105,9 +5636,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -6121,9 +5650,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -6137,9 +5664,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -6153,9 +5678,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -6169,9 +5692,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -6185,9 +5706,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -6201,9 +5720,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -6313,9 +5830,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -6361,9 +5876,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -6457,9 +5970,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -6473,9 +5984,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -6489,9 +5998,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -6505,9 +6012,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -6521,9 +6026,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -6537,9 +6040,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -6617,9 +6118,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -6633,9 +6132,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -6745,9 +6242,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -6757,13 +6252,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10013.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -6773,13 +6262,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10014.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -6789,13 +6272,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10015.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -6809,9 +6286,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -6889,9 +6364,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -6905,9 +6378,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -6937,9 +6408,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -7033,9 +6502,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -7049,9 +6516,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -7065,9 +6530,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -7081,9 +6544,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -7097,9 +6558,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -7321,9 +6780,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -7333,13 +6790,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/385.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -7353,9 +6804,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -7365,13 +6814,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10001.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -7381,13 +6824,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10002.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -7397,13 +6834,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10003.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -7641,9 +7072,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -7657,9 +7086,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -7721,9 +7148,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -7737,9 +7162,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -7817,9 +7240,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -7833,9 +7254,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -7849,9 +7268,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -7865,9 +7282,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -7881,9 +7296,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -7897,9 +7310,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -7913,9 +7324,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -7929,9 +7338,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -7945,9 +7352,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -7961,9 +7366,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -7977,9 +7380,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -7993,9 +7394,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -8009,9 +7408,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -8025,9 +7422,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -8041,9 +7436,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -8057,9 +7450,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -8073,9 +7464,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -8089,9 +7478,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -8105,9 +7492,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -8169,9 +7554,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -8185,9 +7568,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -8265,9 +7646,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -8313,9 +7692,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -8329,9 +7706,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -8345,9 +7720,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -8361,9 +7734,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -8377,9 +7748,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -8393,9 +7762,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -8409,9 +7776,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -8473,9 +7838,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -8489,9 +7852,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -8505,9 +7866,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -8585,9 +7944,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -8617,9 +7974,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -8633,9 +7988,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -8649,9 +8002,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -8665,9 +8016,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -8745,9 +8094,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -8825,9 +8172,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -8841,9 +8186,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -8857,9 +8200,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -8873,9 +8214,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -9001,9 +8340,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -9017,9 +8354,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -9033,9 +8368,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -9049,9 +8382,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -9065,9 +8396,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -9081,9 +8410,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -9097,9 +8424,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -9113,9 +8438,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -9129,9 +8452,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -9241,9 +8562,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -9257,9 +8576,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -9317,13 +8634,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/491.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -9333,13 +8644,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/492.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -9349,13 +8654,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10006.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -9380,14 +8679,7 @@
     "name": "Victini",
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/494.png",
     "availableTags": [
-      "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "normal"
     ],
     "availableInGo": true
   },
@@ -9593,9 +8885,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -9609,9 +8899,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -9625,9 +8913,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -9673,9 +8959,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -9689,9 +8973,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -9705,9 +8987,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -9721,9 +9001,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -9737,9 +9015,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -9753,9 +9029,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -9769,9 +9043,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -9785,9 +9057,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -9929,9 +9199,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -9945,9 +9213,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -9993,9 +9259,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -10057,9 +9321,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -10073,9 +9335,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -10089,9 +9349,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -10137,9 +9395,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -10153,9 +9409,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -10169,9 +9423,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -10233,9 +9485,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -10249,9 +9499,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -10265,9 +9513,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -10281,9 +9527,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -10293,13 +9537,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10237.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -10313,9 +9551,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -10329,9 +9565,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -10345,9 +9579,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -10361,9 +9593,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -10377,9 +9607,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -10393,9 +9621,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -10421,13 +9647,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10176.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -10453,13 +9673,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10177.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -10505,9 +9719,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -10553,9 +9765,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -10569,9 +9779,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -10585,9 +9793,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -10613,13 +9819,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10179.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -10745,9 +9945,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -10761,9 +9959,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -10777,9 +9973,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -10793,9 +9987,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -10809,9 +10001,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -10825,9 +10015,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -10969,9 +10157,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -10985,9 +10171,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -11001,9 +10185,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -11017,9 +10199,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -11033,9 +10213,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -11049,9 +10227,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -11065,9 +10241,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -11081,9 +10255,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -11097,9 +10269,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -11113,9 +10283,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -11129,9 +10297,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -11145,9 +10311,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -11225,9 +10389,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -11241,9 +10403,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -11257,9 +10417,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -11337,9 +10495,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -11353,9 +10509,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -11369,9 +10523,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -11385,9 +10537,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -11401,9 +10551,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -11417,9 +10565,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -11433,9 +10579,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -11449,9 +10593,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -11513,9 +10655,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -11529,9 +10669,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -11545,9 +10683,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -11561,9 +10697,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -11577,9 +10711,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -11593,9 +10725,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -11653,13 +10783,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10180.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -11673,9 +10797,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -11689,9 +10811,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -11705,9 +10825,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -11753,9 +10871,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -11769,9 +10885,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -11785,9 +10899,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -11801,9 +10913,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -11817,9 +10927,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -11829,13 +10937,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10240.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -11849,9 +10951,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -11865,9 +10965,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -11881,9 +10979,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -11897,9 +10993,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -11913,9 +11007,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -11929,9 +11021,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -11945,9 +11035,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -11961,9 +11049,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -11977,9 +11063,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -11993,9 +11077,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -12009,9 +11091,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -12025,9 +11105,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -12041,9 +11119,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -12057,9 +11133,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -12073,9 +11147,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -12089,9 +11161,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -12105,9 +11175,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -12121,9 +11189,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -12137,9 +11203,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -12153,9 +11217,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -12169,9 +11231,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -12181,13 +11241,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10023.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -12197,13 +11251,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10022.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -12212,14 +11260,7 @@
     "name": "Keldeo Ordinary",
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/647.png",
     "availableTags": [
-      "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "normal"
     ],
     "availableInGo": true
   },
@@ -12245,13 +11286,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/648.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -12277,13 +11312,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/649.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -12293,13 +11322,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/649-shock.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -12309,13 +11332,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/649-burn.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -12325,13 +11342,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/649-chill.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -12341,13 +11352,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/649-douse.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -12361,9 +11366,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -12377,9 +11380,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -12393,9 +11394,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -12409,9 +11408,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -12425,9 +11422,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -12441,9 +11436,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -12457,9 +11450,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -12473,9 +11464,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -12489,9 +11478,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -12537,9 +11524,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -12553,9 +11538,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -12569,9 +11552,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -12585,9 +11566,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -12601,9 +11580,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -12617,9 +11594,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -12633,9 +11608,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -12649,9 +11622,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -12665,9 +11636,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -12681,9 +11650,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -12697,9 +11664,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -12713,9 +11678,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -12729,9 +11692,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -12745,9 +11706,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -12761,9 +11720,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -12777,9 +11734,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -12793,9 +11748,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -12809,9 +11762,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -12825,9 +11776,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -12841,9 +11790,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -12857,9 +11804,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -12873,9 +11818,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -12889,9 +11832,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -12905,9 +11846,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -12921,9 +11860,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -12937,9 +11874,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -12953,9 +11888,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -12969,9 +11902,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -12985,9 +11916,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -13001,9 +11930,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -13017,9 +11944,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -13033,9 +11958,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -13049,9 +11972,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -13065,9 +11986,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -13081,9 +12000,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -13097,9 +12014,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -13113,9 +12028,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -13129,9 +12042,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -13145,9 +12056,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -13161,9 +12070,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -13177,9 +12084,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -13193,9 +12098,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -13209,9 +12112,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -13225,9 +12126,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -13241,9 +12140,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -13257,9 +12154,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -13273,9 +12168,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -13289,9 +12182,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -13305,9 +12196,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -13321,9 +12210,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -13337,9 +12224,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -13353,9 +12238,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -13369,9 +12252,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -13385,9 +12266,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -13401,9 +12280,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -13417,9 +12294,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -13433,9 +12308,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -13449,9 +12322,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -13465,9 +12336,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -13481,9 +12350,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -13497,9 +12364,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -13513,9 +12378,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -13529,9 +12392,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -13545,9 +12406,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -13561,9 +12420,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -13577,9 +12434,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -13593,9 +12448,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -13641,9 +12494,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -13657,9 +12508,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -13673,9 +12522,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -13689,9 +12536,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -13705,9 +12550,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -13721,9 +12564,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -13737,9 +12578,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -13753,9 +12592,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -13833,9 +12670,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -13849,9 +12684,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -13865,9 +12698,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -13881,9 +12712,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -13897,9 +12726,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -13913,9 +12740,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -13929,9 +12754,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -13945,9 +12768,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -13961,9 +12782,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -13977,9 +12796,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -13993,9 +12810,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -14009,9 +12824,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -14025,9 +12838,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -14041,9 +12852,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -14057,9 +12866,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -14073,9 +12880,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -14089,9 +12894,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -14105,9 +12908,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -14121,9 +12922,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -14137,9 +12936,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -14153,9 +12950,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -14169,9 +12964,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -14185,9 +12978,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -14201,9 +12992,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -14217,9 +13006,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -14233,9 +13020,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -14249,9 +13034,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -14261,13 +13044,8 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10118.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -14277,13 +13055,8 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/718.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -14293,13 +13066,8 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10120.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -14308,14 +13076,7 @@
     "name": "Diancie",
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/719.png",
     "availableTags": [
-      "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "normal"
     ],
     "availableInGo": true
   },
@@ -14324,14 +13085,7 @@
     "name": "Hoopa Confined",
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/720.png",
     "availableTags": [
-      "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "normal"
     ],
     "availableInGo": true
   },
@@ -14340,14 +13094,7 @@
     "name": "Hoopa Unbound",
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/refs/heads/master/sprites/pokemon/lowres/720-unbound.png",
     "availableTags": [
-      "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "normal"
     ],
     "availableInGo": true
   },
@@ -14356,14 +13103,7 @@
     "name": "Volcanion",
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/721.png",
     "availableTags": [
-      "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "normal"
     ],
     "availableInGo": true
   },
@@ -14377,9 +13117,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -14393,9 +13131,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -14409,9 +13145,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -14425,9 +13159,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -14441,9 +13173,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -14457,9 +13187,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -14473,9 +13201,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -14489,9 +13215,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -14505,9 +13229,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -14521,9 +13243,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -14537,9 +13257,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -14553,9 +13271,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -14569,9 +13285,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -14585,9 +13299,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -14601,9 +13313,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -14617,9 +13327,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -14633,9 +13341,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -14649,9 +13355,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -14665,9 +13369,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -14681,9 +13383,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -14697,9 +13397,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -14713,9 +13411,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -14729,9 +13425,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -14745,9 +13439,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -14761,9 +13453,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -14777,9 +13467,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -14793,9 +13481,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -14809,9 +13495,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -14825,9 +13509,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -14841,9 +13523,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -14857,9 +13537,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -14873,9 +13551,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -14889,9 +13565,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -14905,9 +13579,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -14921,9 +13593,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -14937,9 +13607,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -14953,9 +13621,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -14969,9 +13635,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -14985,9 +13649,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -15001,9 +13663,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -15017,9 +13677,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -15033,9 +13691,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -15049,9 +13705,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -15065,9 +13719,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -15081,9 +13733,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -15097,9 +13747,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -15113,9 +13761,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -15129,9 +13775,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -15145,9 +13789,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -15161,9 +13803,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -15177,9 +13817,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -15193,9 +13831,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -15209,9 +13845,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -15225,9 +13859,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -15241,9 +13873,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -15257,9 +13887,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -15273,9 +13901,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -15289,9 +13915,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -15305,9 +13929,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -15321,9 +13943,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -15337,9 +13957,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -15353,9 +13971,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -15369,9 +13985,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -15385,9 +13999,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -15401,9 +14013,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -15417,9 +14027,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -15433,9 +14041,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -15449,9 +14055,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -15465,9 +14069,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -15481,9 +14083,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -15497,9 +14097,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -15513,9 +14111,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -15529,9 +14125,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -15545,9 +14139,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -15561,9 +14153,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -15577,9 +14167,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -15593,9 +14181,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -15609,9 +14195,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -15625,9 +14209,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -15641,9 +14223,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -15657,9 +14237,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -15673,9 +14251,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -15689,9 +14265,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -15705,9 +14279,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -15721,9 +14293,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -15733,13 +14303,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10155.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -15749,13 +14313,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10156.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -15780,14 +14338,7 @@
     "name": "Marshadow",
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/802.png",
     "availableTags": [
-      "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "normal"
     ],
     "availableInGo": true
   },
@@ -15801,9 +14352,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -15817,9 +14366,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -15833,9 +14380,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -15849,9 +14394,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -15865,9 +14408,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -15881,9 +14422,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -15897,9 +14436,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -15913,9 +14450,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -15929,9 +14464,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -15945,9 +14478,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -15961,9 +14492,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -15977,9 +14506,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -15993,9 +14520,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -16009,9 +14534,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -16025,9 +14548,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -16041,9 +14562,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -16057,9 +14576,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -16073,9 +14590,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -16089,9 +14604,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -16105,9 +14618,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -16121,9 +14632,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -16137,9 +14646,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -16153,9 +14660,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -16169,9 +14674,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -16185,9 +14688,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -16201,9 +14702,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -16217,9 +14716,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -16233,9 +14730,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -16249,9 +14744,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -16265,9 +14758,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -16281,9 +14772,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -16297,9 +14786,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -16313,9 +14800,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -16329,9 +14814,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -16345,9 +14828,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -16361,9 +14842,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -16377,9 +14856,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -16393,9 +14870,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -16409,9 +14884,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -16425,9 +14898,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -16441,9 +14912,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -16457,9 +14926,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -16473,9 +14940,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -16489,9 +14954,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -16505,9 +14968,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -16521,9 +14982,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -16537,9 +14996,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -16553,9 +15010,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -16569,9 +15024,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -16585,9 +15038,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -16601,9 +15052,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -16617,9 +15066,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -16633,9 +15080,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -16649,9 +15094,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -16665,9 +15108,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -16681,9 +15122,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -16697,9 +15136,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -16713,9 +15150,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -16729,9 +15164,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -16745,9 +15178,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -16761,9 +15192,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -16777,9 +15206,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -16825,9 +15252,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -16889,9 +15314,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -16905,9 +15328,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -16921,9 +15342,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -16937,9 +15356,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -16953,9 +15370,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -16969,9 +15384,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -16985,9 +15398,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -17001,9 +15412,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -17017,9 +15426,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -17033,9 +15440,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -17049,9 +15454,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -17065,9 +15468,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -17081,9 +15482,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -17097,9 +15496,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -17113,9 +15510,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -17129,9 +15524,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -17145,9 +15538,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -17161,9 +15552,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -17177,9 +15566,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -17193,9 +15580,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -17209,9 +15594,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -17225,9 +15608,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -17241,9 +15622,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -17257,9 +15636,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -17273,9 +15650,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -17289,9 +15664,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -17305,9 +15678,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -17321,9 +15692,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -17332,14 +15701,7 @@
     "name": "Zarude",
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/893.png",
     "availableTags": [
-      "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "normal"
     ],
     "availableInGo": true
   },
@@ -17353,9 +15715,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -17369,9 +15729,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -17385,9 +15743,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -17401,9 +15757,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -17417,9 +15771,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -17433,9 +15785,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -17449,9 +15799,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -17465,9 +15813,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -17481,9 +15827,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -17513,9 +15857,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -17545,9 +15887,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -17561,9 +15901,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -17577,9 +15915,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -17593,9 +15929,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -17609,9 +15943,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -17625,9 +15957,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -17641,9 +15971,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -17657,9 +15985,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -17673,9 +15999,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -17689,9 +16013,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -17705,9 +16027,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -17721,9 +16041,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -17737,9 +16055,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -17753,9 +16069,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -17769,9 +16083,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -17785,9 +16097,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -17801,9 +16111,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -17817,9 +16125,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -17833,9 +16139,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -17849,9 +16153,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -17865,9 +16167,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -17881,9 +16181,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -17897,9 +16195,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -17913,9 +16209,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -17929,9 +16223,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -17945,9 +16237,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -17961,9 +16251,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -17977,9 +16265,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -17993,9 +16279,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -18009,9 +16293,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -18025,9 +16307,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -18041,9 +16321,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -18057,9 +16335,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -18073,9 +16349,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -18089,9 +16363,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -18105,9 +16377,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -18121,9 +16391,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -18137,9 +16405,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -18153,9 +16419,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -18169,9 +16433,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -18185,9 +16447,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -18201,9 +16461,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -18217,9 +16475,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -18233,9 +16489,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -18249,9 +16503,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -18265,9 +16517,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -18281,9 +16531,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -18297,9 +16545,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -18313,9 +16559,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -18329,9 +16573,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -18345,9 +16587,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -18361,9 +16601,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -18377,9 +16615,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -18393,9 +16629,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -18409,9 +16643,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -18425,9 +16657,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -18441,9 +16671,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -18457,9 +16685,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -18473,9 +16699,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -18489,9 +16713,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -18505,9 +16727,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -18521,9 +16741,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -18537,9 +16755,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -18553,9 +16769,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -18569,9 +16783,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -18585,9 +16797,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -18601,9 +16811,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -18617,9 +16825,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -18633,9 +16839,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -18649,9 +16853,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -18665,9 +16867,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -18681,9 +16881,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -18697,9 +16895,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -18713,9 +16909,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -18729,9 +16923,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -18745,9 +16937,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -18761,9 +16951,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -18777,9 +16965,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -18793,9 +16979,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -18809,9 +16993,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -18825,9 +17007,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -18841,9 +17021,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -18873,9 +17051,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -18889,9 +17065,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -18905,9 +17079,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -18921,9 +17093,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -18937,9 +17107,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -18953,9 +17121,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -18969,9 +17135,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -18985,9 +17149,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -19001,9 +17163,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -19017,9 +17177,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -19033,9 +17191,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -19049,9 +17205,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -19065,9 +17219,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -19081,9 +17233,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -19097,9 +17247,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -19113,9 +17261,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -19129,9 +17275,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -19145,9 +17289,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -19161,9 +17303,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -19177,9 +17317,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -19193,9 +17331,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -19209,9 +17345,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -19225,9 +17359,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
@@ -19241,9 +17373,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -19257,9 +17387,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -19273,9 +17401,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -19289,9 +17415,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -19305,9 +17429,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -19321,9 +17443,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -19337,9 +17457,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -19353,9 +17471,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -19369,9 +17485,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -19385,9 +17499,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -19401,9 +17513,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -19417,9 +17527,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -19433,9 +17541,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -19449,9 +17555,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -19465,9 +17569,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -19481,9 +17583,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -19497,9 +17597,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -19513,9 +17611,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -19529,9 +17625,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -19545,9 +17639,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -19561,9 +17653,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -19577,9 +17667,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -19593,9 +17681,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -19609,9 +17695,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   },
@@ -19625,9 +17709,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": false
   }
