@@ -12063,7 +12063,7 @@
     "availableInGo": true
   },
   {
-    "id": "671_0",
+    "id": "671_1",
     "name": "Florges Orange Flower",
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/671-orange.png",
     "availableTags": [
@@ -12077,7 +12077,7 @@
     "availableInGo": true
   },
   {
-    "id": "671_0",
+    "id": "671_2",
     "name": "Florges Blue Flower",
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/671-blue.png",
     "availableTags": [
@@ -12091,7 +12091,7 @@
     "availableInGo": true
   },
   {
-    "id": "671_0",
+    "id": "671_3",
     "name": "Florges White Flower",
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/671-white.png",
     "availableTags": [
