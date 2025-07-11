@@ -309,13 +309,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10091.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -341,13 +335,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10092.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
