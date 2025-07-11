@@ -8468,13 +8468,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10245.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "shiny"
     ],
     "availableInGo": true
   },
@@ -8504,9 +8498,7 @@
       "shiny",
       "lucky",
       "xxl",
-      "xxs",
-      "shadow",
-      "purified"
+      "xxs"
     ],
     "availableInGo": true
   },
