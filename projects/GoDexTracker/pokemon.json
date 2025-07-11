@@ -7443,7 +7443,7 @@
     "availableInGo": true
   },
   {
-    "id": "422_0r",
+    "id": "422_0",
     "name": "Shellos East Sea",
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/422-east.png",
     "availableTags": [
@@ -8494,11 +8494,7 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10246.png",
     "availableTags": [
       "normal",
-      "hundo",
-      "shiny",
-      "lucky",
-      "xxl",
-      "xxs"
+      "shiny"
     ],
     "availableInGo": true
   },
