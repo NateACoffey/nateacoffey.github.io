@@ -9515,7 +9515,11 @@
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10237.png",
     "availableTags": [
       "normal",
-      "shiny"
+      "hundo",
+      "shiny",
+      "lucky",
+      "xxl",
+      "xxs"
     ],
     "availableInGo": true
   },
