@@ -149,7 +149,6 @@ function renderPokemonGrid() {
 
         localStorage.setItem("tracked", JSON.stringify(tracked));
         updateCardGreyed(card, pokemon.id);
-        renderPokemonGrid();
       });
     }
 
